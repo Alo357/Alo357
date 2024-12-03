@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alo357
-- 👀 I’m interested in coding in Java / Haskell / Python
-- 🌱 I’m currently learning Java / Python
+- 👀 I’m interested in coding in Java / Python
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Alopez12@syr.edu
 
 <!---
